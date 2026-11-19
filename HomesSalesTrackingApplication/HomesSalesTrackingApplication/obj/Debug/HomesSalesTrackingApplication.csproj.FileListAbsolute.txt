@@ -1,0 +1,10 @@
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\bin\Debug\HomesSalesTrackingApplication.exe.config
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\bin\Debug\HomesSalesTrackingApplication.exe
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\bin\Debug\HomesSalesTrackingApplication.pdb
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\obj\Debug\HomesSalesTrackingApplication.csproj.AssemblyReference.cache
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\obj\Debug\HomesSalesTrackingApplication.Form1.resources
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\obj\Debug\HomesSalesTrackingApplication.Properties.Resources.resources
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\obj\Debug\HomesSalesTrackingApplication.csproj.GenerateResource.cache
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\obj\Debug\HomesSalesTrackingApplication.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\obj\Debug\HomesSalesTrackingApplication.exe
+C:\Users\ACER NITRO V15\source\repos\HomesSalesTrackingApplication\HomesSalesTrackingApplication\obj\Debug\HomesSalesTrackingApplication.pdb
